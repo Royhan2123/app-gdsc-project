@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Project-Akhir-Gdsc</string>
+    
+    <string name="name">Royhan</string>
+    <string name="npm">21110156</string>
+    <string name="nama_saya_adalah">Nama Saya adalah :</string>
+    <string name="npm_saya_adalah">Npm saya adalah :</string>
+    <string name="universitas_saya_adalah">Universitas Saya adalah :</string>
+    <string name="fakultas_saya_adalah">Fakultas Saya adalah :</string>
+
+
+    <string-array name="data_name">
+        <item>Royhan</item>
+        <item>Ryan Carok</item>
+        <item>Muhammad Dahlan</item>
+        <item>Afrizal Syarhoni</item>
+        <item>Kimon Etama</item>
+        <item>Elqueste Froxy</item>
+        <item>Nomainso</item>
+        <item>Rizki Syahputra</item>
+        <item>Benama</item>
+    </string-array>
+
+    <string-array name="data_nim">
+        <item>21110156</item>
+        <item>26146172</item>
+        <item>21217481</item>
+        <item>14151281</item>
+        <item>27514521</item>
+        <item>69182748</item>
+        <item>25387618</item>
+        <item>15384652</item>
+        <item>11102894</item>
+    </string-array>
+
+    <string-array name="data_universitas">
+        <item>Universitas Budi Darma</item>
+        <item>Universitas Sumatra Utara</item>
+        <item>Universitas Panyabungan</item>
+        <item>Universitas Gajah Mada</item>
+        <item>Universitas Indonesia</item>
+        <item>Universitas Muhammadiyah Sumatra Utara</item>
+        <item>Universitas Harapan</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Prima Indonesia</item>
+    </string-array>
+
+    <integer-array name="data_img">
+        <item>@drawable/royhan</item>
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+    </integer-array>
+
+    <string-array name="data_programStudi">
+        <item>Teknik Informatika</item>
+        <item>Teknik Elektro</item>
+        <item>Tata Boga</item>
+        <item>Hukum</item>
+        <item>Bahasa Indonesia</item>
+        <item>Teknik Nuklir</item>
+        <item>Ekonomi</item>
+        <item>Kedokteran</item>
+        <item>Manajemen Bisnis</item>
+    </string-array>
+</resources>
